@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-food-nutrition/static/css/main.fcc6f372.css",
+    "main.js": "/react-food-nutrition/static/js/main.d7207b4c.js",
+    "static/js/453.2f7d31df.chunk.js": "/react-food-nutrition/static/js/453.2f7d31df.chunk.js",
+    "index.html": "/react-food-nutrition/index.html",
+    "main.fcc6f372.css.map": "/react-food-nutrition/static/css/main.fcc6f372.css.map",
+    "main.d7207b4c.js.map": "/react-food-nutrition/static/js/main.d7207b4c.js.map",
+    "453.2f7d31df.chunk.js.map": "/react-food-nutrition/static/js/453.2f7d31df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcc6f372.css",
+    "static/js/main.d7207b4c.js"
+  ]
+}
